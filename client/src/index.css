@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: #f2f4f7;
+}
+
+input, button {
+  padding: 8px;
+  font-size: 14px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background: #4f46e5;
+  color: white;
+  cursor: pointer;
+  border: none;
+  transition: 0.2s;
+}
+
+button:hover {
+  background: #3730a3;
+}
