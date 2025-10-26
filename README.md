@@ -30,4 +30,4 @@ npm start
 
 ```
 ### Deployment link
-  https://mini-project-manager-ui.vercel.app](https://smart-scheduler-frontend-4vfs.vercel.app/
+ [ https://mini-project-manager-ui.vercel.app](https://smart-scheduler-frontend-4vfs.vercel.app/](https://smart-scheduler-frontend-4vfs.vercel.app/)
